@@ -1,0 +1,13 @@
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\bin\Release\net8.0\Model.deps.json
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\bin\Release\net8.0\Model.dll
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\bin\Release\net8.0\Model.pdb
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\obj\Release\net8.0\Model.csproj.AssemblyReference.cache
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\obj\Release\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\obj\Release\net8.0\Model.AssemblyInfoInputs.cache
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\obj\Release\net8.0\Model.AssemblyInfo.cs
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\obj\Release\net8.0\Model.csproj.CoreCompileInputs.cache
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\obj\Release\net8.0\Model.sourcelink.json
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\obj\Release\net8.0\Model.dll
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\obj\Release\net8.0\refint\Model.dll
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\obj\Release\net8.0\Model.pdb
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Model\obj\Release\net8.0\ref\Model.dll
