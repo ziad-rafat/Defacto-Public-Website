@@ -1,0 +1,36 @@
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\bin\Debug\net8.0\Context.deps.json
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\bin\Debug\net8.0\Context.runtimeconfig.json
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\bin\Debug\net8.0\Context.dll
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\bin\Debug\net8.0\Context.pdb
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\bin\Debug\net8.0\Model.dll
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\bin\Debug\net8.0\Model.pdb
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\obj\Debug\net8.0\Context.csproj.AssemblyReference.cache
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\obj\Debug\net8.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\obj\Debug\net8.0\Context.AssemblyInfoInputs.cache
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\obj\Debug\net8.0\Context.AssemblyInfo.cs
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\obj\Debug\net8.0\Context.csproj.CoreCompileInputs.cache
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\obj\Debug\net8.0\Context.sourcelink.json
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\obj\Debug\net8.0\Context.csproj.CopyComplete
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\obj\Debug\net8.0\Context.dll
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\obj\Debug\net8.0\refint\Context.dll
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\obj\Debug\net8.0\Context.pdb
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\obj\Debug\net8.0\Context.genruntimeconfig.cache
+D:\ITI Intake24 3 months\API Core\Day02\DEFACTO\Context\obj\Debug\net8.0\ref\Context.dll
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\bin\Debug\net8.0\Context.deps.json
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\bin\Debug\net8.0\Context.runtimeconfig.json
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\bin\Debug\net8.0\Context.dll
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\bin\Debug\net8.0\Context.pdb
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\bin\Debug\net8.0\Model.dll
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\bin\Debug\net8.0\Model.pdb
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\obj\Debug\net8.0\Context.csproj.AssemblyReference.cache
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\obj\Debug\net8.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\obj\Debug\net8.0\Context.AssemblyInfoInputs.cache
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\obj\Debug\net8.0\Context.AssemblyInfo.cs
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\obj\Debug\net8.0\Context.csproj.CoreCompileInputs.cache
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\obj\Debug\net8.0\Context.sourcelink.json
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\obj\Debug\net8.0\Context.csproj.Up2Date
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\obj\Debug\net8.0\Context.dll
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\obj\Debug\net8.0\refint\Context.dll
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\obj\Debug\net8.0\Context.pdb
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\obj\Debug\net8.0\Context.genruntimeconfig.cache
+C:\Z\Defacto\Final Project\DEFACTO-User\DEFACTO\Context\obj\Debug\net8.0\ref\Context.dll
